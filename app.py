@@ -14,7 +14,7 @@ import math
 
 # Page Configuration
 st.set_page_config(
-    page_title="Smart Material General Intelligence Lab AI",
+    page_title="Smart Material Research Intelligence Lab AI",
     page_icon="🔬",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -91,7 +91,7 @@ def load_css():
     """, unsafe_allow_html=True)
 
 # Enhanced AI System with Think Tank & Real-time Knowledge
-class EnhancedMaterialAI:
+class Enhanced Material AI:
     def __init__(self):
         self.chat_history = []
         self.knowledge_base = self._init_knowledge_base()
