@@ -91,7 +91,7 @@ def load_css():
     """, unsafe_allow_html=True)
 
 # Enhanced AI System with Think Tank & Real-time Knowledge
-class Enhanced Material AI:
+class EnhancedMaterialAI:
     def __init__(self):
         self.chat_history = []
         self.knowledge_base = self._init_knowledge_base()
