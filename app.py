@@ -14,7 +14,7 @@ import math
 
 # Page Configuration
 st.set_page_config(
-    page_title="MatAI Research Lab",
+    page_title="Smart Material General Intelligence Lab AI",
     page_icon="🔬",
     layout="wide",
     initial_sidebar_state="expanded"
